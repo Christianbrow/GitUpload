@@ -1,7 +1,7 @@
 # GitUpload
 Python Script +  Tkinter Graph whit send Projects of the Github
 
-https://raw.githubusercontent.com/Christianbrow/GitUpload/logo.png
+(https://raw.githubusercontent.com/Christianbrow/GitUpload/logo.png)
 https://github.com/Christianbrow/GitUpload/logo1.png
 
 1-Primero tienen que copiar el archivo que decen subir a la carpeta temp   
