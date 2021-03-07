@@ -25,7 +25,7 @@ labelmen = tk.Label(app, text = 'Welcome to GitUpload for wh04m1su ..',)
 labelmen.config(font = (20), fg = '#343434', bg = '#fff')
 labelmen.place(x = 34, y = 290)
 progress = Progressbar(app, orient = 'horizontal', length = 390, mode = 'determinate')
-app.update_idletasks()
+
 
 
 
